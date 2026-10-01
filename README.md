@@ -1,16 +1,54 @@
-## Hi there 👋
+# 🌙 Hi, I'm Pari
 
-<!--
-**byte-pari/byte-pari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🐍 Python Developer | Network & Software Student | 17 y/o
 
-Here are some ideas to get you started:
+> *"same girl, bigger dreams."*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🖤 About Me
+
+I'm a Python Developer and a Network & Software student who enjoys building things with code.
+
+- 🐍 Python Developer
+- 💻 Network & Software Student
+- 🖥️ Working with VS Code and Spyder
+- 🗄️ Experience with SQLite & Databases
+- 🌐 Interested in Web Development
+- 🛹 Skateboarding
+- 🎵 Music
+- 🌙 Dark Aesthetics
+- 🌍 Languages & Cultures
+
+---
+
+## 🛠️ Skills
+
+Programming: Python
+
+Database: SQLite
+
+Tools: VS Code • Spyder • IDLE
+
+
+---
+
+## 🎯 Goals
+
+- Build interesting projects
+- Improve my programming skills
+- Create a strong portfolio
+- Learn new technologies
+- Study abroad
+
+---
+
+## 🌌 A little about me
+
+`text
+17 years old.
+Python developer.
+Always learning.
+Sometimes coding at midnight. 🌙
+
+«Code. Create. Keep going.»
